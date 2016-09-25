@@ -1,0 +1,118 @@
+{
+  "properties" : {
+    "duration" : 10,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "lilHank64x64Waving1.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving2.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving3.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving4.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving5.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving6.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving7.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving8.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving9.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving10.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving11.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving12.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving13.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving14.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving15.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving16.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving17.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving18.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving19.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving20.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving21.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving22.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving23.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving24.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving25.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving26.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving27.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving28.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving29.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving30.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving31.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving32.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving33.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving34.png"
+    },
+    {
+      "filename" : "lilHank64x64Waving35.png"
+    }
+  ]
+}
