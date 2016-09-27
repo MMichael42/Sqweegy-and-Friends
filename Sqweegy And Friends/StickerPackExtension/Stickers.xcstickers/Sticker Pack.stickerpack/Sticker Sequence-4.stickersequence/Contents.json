@@ -1,0 +1,85 @@
+{
+  "properties" : {
+    "duration" : 10,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE1.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE2.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE3.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE4.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE5.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE6.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE7.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE8.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE9.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE10.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE11.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE12.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE13.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE14.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE15.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE16.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE17.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE18.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE19.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE20.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE21.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE22.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE23.png"
+    },
+    {
+      "filename" : "lilHank64x64SunGlassesAnimmatedLARGE24.png"
+    }
+  ]
+}
