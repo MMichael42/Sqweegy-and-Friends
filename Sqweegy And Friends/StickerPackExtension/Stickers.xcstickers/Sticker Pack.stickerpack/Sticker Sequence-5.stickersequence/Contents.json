@@ -1,0 +1,103 @@
+{
+  "properties" : {
+    "duration" : 10,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge1.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge2.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge3.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge4.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge5.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge6.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge7.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge8.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge9.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge10.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge11.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge12.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge13.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge14.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge15.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge16.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge17.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge18.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge19.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge20.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge21.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge22.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge23.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge24.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge25.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge26.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge27.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge28.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge29.png"
+    },
+    {
+      "filename" : "lilHank64x64Sleepv2FLATlarge30.png"
+    }
+  ]
+}
