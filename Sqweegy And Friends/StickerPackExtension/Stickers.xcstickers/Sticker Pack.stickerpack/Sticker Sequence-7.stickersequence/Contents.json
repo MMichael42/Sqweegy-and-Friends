@@ -1,0 +1,40 @@
+{
+  "properties" : {
+    "duration" : 1.35,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "Hank64x64SGOutline1.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline2.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline3.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline4.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline5.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline6.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline7.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline8.png"
+    },
+    {
+      "filename" : "Hank64x64SGOutline9.png"
+    }
+  ]
+}
